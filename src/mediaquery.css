@@ -1,0 +1,110 @@
+@media (max-width: 720px) {
+  .headingContent {
+    width: 75% !important;
+    padding-top: 45px !important;
+    line-height: 3rem;
+  }
+  .headingPara {
+    width: 50%;
+  }
+  .card_img {
+    width: 130px;
+    height: 125px;
+  }
+  .container-img {
+    left: 25%;
+    top: 100px;
+    width: 50%;
+  }
+  .first_div {
+    width: 65%;
+    margin: 140px auto;
+    text-align: center;
+  }
+  .brand-line {
+    position: relative;
+    bottom: 80px;
+  }
+
+  .brand-names {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    position: relative;
+    bottom: 70px;
+  }
+  .profile {
+    margin: 30px 0;
+  }
+  .profile-bg {
+    top: 0px;
+  }
+  .profile-heading {
+    padding-top: 35px;
+  }
+  .profile-member {
+    width: 100%;
+    left: 0px;
+  }
+  .gallery {
+    top: 15px;
+  }
+  .slider {
+    top: 50px;
+  }
+  .slider-reverse-position {
+    top: 140px;
+  }
+  .side-bar {
+    width: 100vw;
+    position: relative;
+    top: 180px;
+  }
+  .mainPara {
+    width: 75%;
+  }
+  .profile-bg {
+    top: 50px;
+  }
+  .user-img {
+    bottom: 80px;
+    position: relative;
+  }
+  .user-text {
+    bottom: 65px;
+    padding: 0;
+  }
+  .after-heading {
+    margin: 70px 0;
+  }
+  .btns {
+    position: relative;
+    bottom: 50px;
+  }
+  .footer-img {
+    width: 110px;
+    height: 50px;
+  }
+  .footer-text {
+    margin-top: 15px;
+    font-size: 14px;
+  }
+  .footer-mail {
+    font-size: 1.2rem;
+  }
+  .footer-address {
+    font-size: 1.1rem;
+    bottom: 350px;
+  }
+  .footer-contact {
+    font-size: 1.1rem;
+  }
+  .footer {
+    height: 550px;
+  }
+  .footer-material {
+    left: 0%;
+    top: 10px;
+  }
+}
