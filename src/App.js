@@ -12,7 +12,6 @@ import Brands from "./Brands";
 import Profile from "./Profile";
 import SliderGallery from "./SliderGallery";
 import SliderGalleryReverse from "./SliderGalleryReverse";
-import Sidebar from "./Sidebar";
 import MainContent from "./MainContent";
 import Clients from "./Clients";
 import Bigbtn from "./Bigbtn";
@@ -45,7 +44,7 @@ const App = () => {
       <HeadingContent class="text-center text-capitalize display-3 w-lg-50 w-75 mx-auto slider-reverse-position">
         We can design just about anything
       </HeadingContent>
-      <Sidebar />
+      {/* <Sidebar /> */}
 
       <MainContent />
       <Clients />

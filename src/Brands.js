@@ -6,7 +6,7 @@ const Brands = () => {
     <>
       <div >
         <h1 className="brand-line text-center pt-lg-5 pb-lg-4">Leading Brands</h1>
-        <div className="container d-flex flex-wrap mt-lg-4 mb-lg-5 brand-names mx-auto">
+        <div className="container-fluid d-flex flex-wrap mt-lg-4 mb-lg-4 brand-names mx-auto w-100">
           <Brand
             name={"Rinnai"}
             class="py-lg-3 text-center brand-common first-brand "
